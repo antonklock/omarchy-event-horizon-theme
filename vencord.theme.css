@@ -22,7 +22,7 @@
 
 :root {
   /* Horizon Dark palette */
-  --color00: #1C1E26;
+  --color00: #0E0F13;
   --color01: #E95678;
   --color02: #29D398;
   --color03: #FAC29A;
@@ -41,8 +41,8 @@
 
   /* UI surfaces */
   --eh-0: #16161c;
-  --eh-1: #1C1E26;
-  --eh-2: #232530;
+  --eh-1: #0E0F13;
+  --eh-2: #15171D;
   --eh-3: #2e303e;
   --eh-4: #6F6F70;
   --eh-border: color-mix(in srgb, var(--eh-4) 45%, transparent);

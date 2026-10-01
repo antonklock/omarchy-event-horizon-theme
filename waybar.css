@@ -14,12 +14,12 @@
 *
 */
 
-@define-color background #1C1E26;
+@define-color background #0E0F13;
 @define-color foreground #CBCED0;
 @define-color accent #26BBD9;
 
 /* ANSI compatibility palette */
-@define-color base00 #1C1E26;
+@define-color base00 #0E0F13;
 @define-color base01 #E95678;
 @define-color base02 #29D398;
 @define-color base03 #FAC29A;

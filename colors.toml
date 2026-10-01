@@ -24,14 +24,14 @@ cursor = "#E3E6EE"
 
 # Primary colors
 foreground = "#CBCED0"
-background = "#1C1E26"
+background = "#0E0F13"
 
 # Selection colors
-selection_foreground = "#1C1E26"
+selection_foreground = "#0E0F13"
 selection_background = "#26BBD9"
 
 # Normal colors (ANSI 0-7)
-color0 = "#1C1E26"
+color0 = "#0E0F13"
 color1 = "#E95678"
 color2 = "#29D398"
 color3 = "#FAC29A"
@@ -71,9 +71,9 @@ color15 = "#E3E6EE"
 #  
 
 # Omarchy Quattro semantic palette roles. These mirror the Base24 extension.
-bg = "#1C1E26"
-lighter_bg = "#232530"
-selection = "#2E303E"
+bg = "#0E0F13"
+lighter_bg = "#15171D"
+selection = "#20212B"
 muted = "#6F6F70"
 dark_fg = "#9DA0A2"
 fg = "#CBCED0"
@@ -87,8 +87,8 @@ magenta = "#EE64AC"
 cyan = "#59E1E3"
 orange = "#FAB795"
 brown = "#F09383"
-dark_bg = "#15171D"
-darker_bg = "#0E0F13"
+dark_bg = "#07080A"
+darker_bg = "#050609"
 bright_red = "#EC6A88"
 bright_green = "#3FDAA4"
 bright_yellow = "#FBC3A7"
